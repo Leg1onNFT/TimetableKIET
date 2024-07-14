@@ -67,6 +67,7 @@
 		<script src="js/libs/jquery-3.4.1.min.js"></script>
 		<script src="js/ajax/ajax_cons.js"></script>
 	</body>
+.
 
 </html>
 .
